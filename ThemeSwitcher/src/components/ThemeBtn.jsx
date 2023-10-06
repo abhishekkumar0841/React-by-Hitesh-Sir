@@ -9,7 +9,7 @@ export default function ThemeBtn() {
     if (darkModeStatus) {
       darkTheme();
     } else {
-      lightTheme();
+      lightTheme(); 
     }
   };
 
